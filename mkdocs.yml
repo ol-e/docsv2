@@ -5,7 +5,7 @@ theme:
 nav:
   - Hjem: index.md
   - Oppskrifter:
-      - Pizza: Pizza.md
+      - Pizza: oppskrifter/pizza.md
       - Pasta med pesto: oppskrifter/pasta-med-pesto.md
       - Enkel omelett: oppskrifter/enkel-omelett.md
       - Kyllingwrap: oppskrifter/kyllingwrap.md
