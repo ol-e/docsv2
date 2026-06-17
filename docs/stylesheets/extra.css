@@ -1,0 +1,26 @@
+:root {
+  --md-default-fg-color--light: #5f6368;
+}
+
+.md-typeset h1 {
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+.md-typeset h2,
+.md-typeset h3 {
+  scroll-margin-top: 4.5rem;
+}
+
+.md-typeset table:not([class]) {
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+
+.md-typeset table:not([class]) th {
+  background-color: var(--md-primary-fg-color--light);
+}
+
+.md-typeset pre > code {
+  border-radius: 0.5rem;
+}

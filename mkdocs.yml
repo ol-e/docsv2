@@ -2,6 +2,16 @@ site_name: Oles dokumentasjon
 site_url: https://ol-e.github.io/docsv2/
 theme:
   name: material
+  palette:
+    - scheme: default
+      primary: blue grey
+      accent: deep orange
+  features:
+    - navigation.tabs
+    - navigation.top
+    - content.code.copy
+extra_css:
+  - stylesheets/extra.css
 nav:
   - Hjem: index.md
   - Oppskrifter:
