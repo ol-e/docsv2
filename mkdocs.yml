@@ -5,8 +5,10 @@ theme:
 nav:
   - Hjem: index.md
   - Oppskrifter:
-      - Pizza: Pizza.md
-      - Kremet kyllingsuppe: Chicken_soup.md
-  - Guider:
-      - Hvordan bruke Google: how_to_use_google.md
-      - Hvordan laste opp bilder: how_to_upload_pictures.md
+      - Pizza: oppskrifter/pizza.md
+      - Pasta med pesto: oppskrifter/pasta-med-pesto.md
+      - Enkel omelett: oppskrifter/enkel-omelett.md
+      - Kyllingwrap: oppskrifter/kyllingwrap.md
+      - Havregrøt: oppskrifter/havregrot.md
+      - Fruktsalat: oppskrifter/fruktsalat.md
+  - Google-guide: how_to_use_google.md
