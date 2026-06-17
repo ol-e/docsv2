@@ -2,3 +2,13 @@ site_name: Oles dokumentasjon
 site_url: https://ol-e.github.io/docsv2/
 theme:
   name: material
+nav:
+  - Hjem: index.md
+  - Oppskrifter:
+      - Pizza: oppskrifter/pizza.md
+      - Pasta med pesto: oppskrifter/pasta-med-pesto.md
+      - Enkel omelett: oppskrifter/enkel-omelett.md
+      - Kyllingwrap: oppskrifter/kyllingwrap.md
+      - Havregrøt: oppskrifter/havregrot.md
+      - Fruktsalat: oppskrifter/fruktsalat.md
+  - Google-guide: how_to_use_google.md
