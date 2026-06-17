@@ -6,13 +6,13 @@ Den beste måten i dette repoet er å lagre bilder **lokalt i `docs/images/`** o
 
 1. Optimaliser bildet før opplasting (WebP/JPEG, fornuftig oppløsning).
 2. Legg filen i `docs/images/`.
-3. Gi filen et beskrivende navn med små bokstaver og bindestrek, f.eks. `kylling-suppe.webp`.
+3. Gi filen et beskrivende navn med små bokstaver og bindestrek, f.eks. `chicken-soup.svg`.
 4. Referer bildet fra siden din med relativ sti.
 
 ## Eksempel
 
 ```md
-![Kyllingsuppe](images/kylling-suppe.webp)
+![Kyllingsuppe](images/chicken-soup.svg)
 ```
 
 ## Hvorfor dette er best
