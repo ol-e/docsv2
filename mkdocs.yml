@@ -14,6 +14,7 @@ extra_css:
   - stylesheets/extra.css
 nav:
   - Hjem: index.md
+  - Foto-galleri: gallery.md
   - Oppskrifter:
       - Pizza: oppskrifter/pizza.md
       - Pasta med pesto: oppskrifter/pasta-med-pesto.md
