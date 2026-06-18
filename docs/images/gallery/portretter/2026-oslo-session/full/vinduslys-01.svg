@@ -1,33 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="640" viewBox="0 0 960 640" role="img" aria-label="Illustrasjon av kyllingsuppe i en bolle">
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="1600" viewBox="0 0 2400 1600" role="img" aria-label="Portrett i naturlig vinduslys, Oslo">
   <defs>
-    <radialGradient id="bg" cx="50%" cy="40%" r="70%">
-      <stop offset="0%" stop-color="#fff6e5"/>
-      <stop offset="100%" stop-color="#f0d8b1"/>
-    </radialGradient>
-    <linearGradient id="soup" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#f9c86c"/>
-      <stop offset="100%" stop-color="#e7a741"/>
+    <linearGradient id="bg-portrait-full" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e2cebc"/>
+      <stop offset="100%" stop-color="#667789"/>
     </linearGradient>
   </defs>
-
-  <rect width="960" height="640" fill="url(#bg)"/>
-  <ellipse cx="480" cy="470" rx="250" ry="40" fill="#c9ad84" opacity="0.4"/>
-
-  <ellipse cx="480" cy="350" rx="250" ry="140" fill="#ffffff" stroke="#d9d9d9" stroke-width="12"/>
-  <ellipse cx="480" cy="350" rx="210" ry="102" fill="url(#soup)"/>
-
-  <circle cx="415" cy="338" r="28" fill="#f4d77a"/>
-  <circle cx="518" cy="374" r="26" fill="#f4d77a"/>
-  <circle cx="555" cy="320" r="23" fill="#f4d77a"/>
-
-  <circle cx="440" cy="375" r="10" fill="#78a85f"/>
-  <circle cx="470" cy="330" r="9" fill="#78a85f"/>
-  <circle cx="520" cy="330" r="8" fill="#78a85f"/>
-  <circle cx="390" cy="360" r="7" fill="#78a85f"/>
-  <circle cx="560" cy="360" r="8" fill="#78a85f"/>
-
-  <path d="M760 210c-30 40-30 80 0 120" stroke="#9c7f58" stroke-width="20" fill="none" stroke-linecap="round"/>
-  <path d="M790 230c-20 25-20 50 0 75" stroke="#9c7f58" stroke-width="14" fill="none" stroke-linecap="round"/>
-
-  <text x="480" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="46" fill="#6c4e2d">Kremet kyllingsuppe</text>
+  <rect width="2400" height="1600" fill="url(#bg-portrait-full)"/>
+  <circle cx="1200" cy="700" r="300" fill="#f5e4d1" opacity="0.92"/>
+  <rect x="920" y="980" width="560" height="320" rx="36" fill="#2b3641" opacity="0.8"/>
+  <text x="1200" y="1470" text-anchor="middle" fill="#ffffff" font-size="110" font-family="Arial, sans-serif">Vinduslys</text>
 </svg>

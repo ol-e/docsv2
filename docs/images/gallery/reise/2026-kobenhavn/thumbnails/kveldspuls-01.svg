@@ -1,33 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="640" viewBox="0 0 960 640" role="img" aria-label="Illustrasjon av kyllingsuppe i en bolle">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="Bygate i kveldssol med mennesker i bevegelse">
   <defs>
-    <radialGradient id="bg" cx="50%" cy="40%" r="70%">
-      <stop offset="0%" stop-color="#fff6e5"/>
-      <stop offset="100%" stop-color="#f0d8b1"/>
-    </radialGradient>
-    <linearGradient id="soup" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#f9c86c"/>
-      <stop offset="100%" stop-color="#e7a741"/>
+    <linearGradient id="bg-travel-thumb" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f7a35c"/>
+      <stop offset="100%" stop-color="#3a4f7a"/>
     </linearGradient>
   </defs>
-
-  <rect width="960" height="640" fill="url(#bg)"/>
-  <ellipse cx="480" cy="470" rx="250" ry="40" fill="#c9ad84" opacity="0.4"/>
-
-  <ellipse cx="480" cy="350" rx="250" ry="140" fill="#ffffff" stroke="#d9d9d9" stroke-width="12"/>
-  <ellipse cx="480" cy="350" rx="210" ry="102" fill="url(#soup)"/>
-
-  <circle cx="415" cy="338" r="28" fill="#f4d77a"/>
-  <circle cx="518" cy="374" r="26" fill="#f4d77a"/>
-  <circle cx="555" cy="320" r="23" fill="#f4d77a"/>
-
-  <circle cx="440" cy="375" r="10" fill="#78a85f"/>
-  <circle cx="470" cy="330" r="9" fill="#78a85f"/>
-  <circle cx="520" cy="330" r="8" fill="#78a85f"/>
-  <circle cx="390" cy="360" r="7" fill="#78a85f"/>
-  <circle cx="560" cy="360" r="8" fill="#78a85f"/>
-
-  <path d="M760 210c-30 40-30 80 0 120" stroke="#9c7f58" stroke-width="20" fill="none" stroke-linecap="round"/>
-  <path d="M790 230c-20 25-20 50 0 75" stroke="#9c7f58" stroke-width="14" fill="none" stroke-linecap="round"/>
-
-  <text x="480" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="46" fill="#6c4e2d">Kremet kyllingsuppe</text>
+  <rect width="1200" height="900" fill="url(#bg-travel-thumb)"/>
+  <rect x="180" y="300" width="180" height="360" fill="#273a59" opacity="0.9"/>
+  <rect x="420" y="240" width="200" height="420" fill="#2d476e" opacity="0.9"/>
+  <rect x="690" y="200" width="220" height="460" fill="#365684" opacity="0.9"/>
+  <rect x="960" y="340" width="130" height="320" fill="#253751" opacity="0.88"/>
+  <text x="600" y="825" text-anchor="middle" fill="#ffffff" font-size="54" font-family="Arial, sans-serif">Kveldspuls</text>
 </svg>
