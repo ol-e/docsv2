@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="Bygate i kveldssol med mennesker i bevegelse">
+  <defs>
+    <linearGradient id="bg-travel-thumb" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f7a35c"/>
+      <stop offset="100%" stop-color="#3a4f7a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg-travel-thumb)"/>
+  <rect x="180" y="300" width="180" height="360" fill="#273a59" opacity="0.9"/>
+  <rect x="420" y="240" width="200" height="420" fill="#2d476e" opacity="0.9"/>
+  <rect x="690" y="200" width="220" height="460" fill="#365684" opacity="0.9"/>
+  <rect x="960" y="340" width="130" height="320" fill="#253751" opacity="0.88"/>
+  <text x="600" y="825" text-anchor="middle" fill="#ffffff" font-size="54" font-family="Arial, sans-serif">Kveldspuls</text>
+</svg>

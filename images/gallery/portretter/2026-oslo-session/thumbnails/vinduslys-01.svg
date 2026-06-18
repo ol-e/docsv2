@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="Portrett i naturlig vinduslys, Oslo">
+  <defs>
+    <linearGradient id="bg-portrait-thumb" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#d8c3b0"/>
+      <stop offset="100%" stop-color="#6f7d8c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg-portrait-thumb)"/>
+  <circle cx="600" cy="390" r="170" fill="#f2ddc8" opacity="0.9"/>
+  <rect x="430" y="540" width="340" height="180" rx="24" fill="#2f3a45" opacity="0.78"/>
+  <text x="600" y="825" text-anchor="middle" fill="#ffffff" font-size="54" font-family="Arial, sans-serif">Vinduslys</text>
+</svg>
